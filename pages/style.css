@@ -1,0 +1,46 @@
+body{
+    background-image: url(sebastian-svenson-LpbyDENbQQg-unsplash.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.main {
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    box-shadow: 5px 5px 7px 5px #8888;
+    background-color: transparent;
+}
+
+.main h1 {
+    font-size: 36px;
+    text-align: center;
+    font-family: Arial;
+
+
+}
+
+input {
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+    font-size: 20px;
+    padding: 12px 20px;
+    margin: 8px;
+    border: 1px solid grey;
+    border-radius: 20px;
+
+}
+
+input[type=submit] {
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+    background-color: #476276;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    margin: 4px 2px;
+    border-radius: 10px;
+
+}
